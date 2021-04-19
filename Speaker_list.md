@@ -6,7 +6,7 @@
 | 26-04-2021 | `Benjamin Metha` | Geostatistics of Galaxies: Understanding small-scale metal inhomogeneities in nearby spiral galaxies |
 | 03-05-2021 | `Justin Clancy` | ? |
 | 10-05-2021 | `Doran Huh` | ? | ? |
-| 17-05-2021 | ? | ? |
+| 17-05-2021 | `Eduardo Schiappucci` | ? |
 | 24-05-2021 | `Matthew Thomas` | ? |
 | 31-05-2021 | ? | ? |
 | 07-06-2021 | ? | ? |
