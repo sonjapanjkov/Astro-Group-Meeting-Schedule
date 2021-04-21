@@ -1,7 +1,7 @@
 # Astro-Group-Meeting
 
 | Date| Speaker | Topic | |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 19-04-2021 | `Oliver Anagnostou` | Black hole mergers: mass loss, recoils and my love-hate relationship with GR | :white_check_mark: |
 | 26-04-2021 | `Benjamin Metha` | Geostatistics of Galaxies: Understanding small-scale metal inhomogeneities in nearby spiral galaxies | |
 | 03-05-2021 | `Justin Clancy` | ? | |
