@@ -13,3 +13,4 @@
 | 14-06-2021 | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives | |
 | 21-06-2021 | `Thomas Behrendt` |  | |
 | 28-06-2021 | `Lucy Strang` | ? | |
+| 05-07-2021 | ? | ? | |
