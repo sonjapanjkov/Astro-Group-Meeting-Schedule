@@ -5,7 +5,7 @@
 | 19-04-2021 | `Oliver Anagnostou` | Black hole mergers: mass loss, recoils and my love-hate relationship with GR | :white_check_mark: |
 | 26-04-2021 | `Benjamin Metha` | Geostatistics of Galaxies: Understanding small-scale metal inhomogeneities in nearby spiral galaxies | :white_check_mark: |
 | 03-05-2021 | `Justin Clancy` | Next Gen CMB: The future of looking back | :white_check_mark: |
-| 10-05-2021 | `Doran Huh` | ? |  |
+| 10-05-2021 | `Doran Huh` | Searching for signs of life on exoplanets |  |
 | 17-05-2021 | `Eduardo Schiappucci` | ? | |
 | 24-05-2021 | `Matthew Thomas` | ? | |
 | 31-05-2021 | `Liam Dunn` | ? | |
