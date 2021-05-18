@@ -11,10 +11,11 @@
 | | | `Lennart Balkenhol` | CMB measurements of the growth of structure from SPT |
 | | 31-05-2021 | `Liam Dunn` | ? |
 | | 07-06-2021 | `Prakrut Chaubal` | ? |
+| | | `Nichole Barry` | ? |
 | | 14-06-2021 | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
 | | 21-06-2021 | `Thomas Behrendt` |  |
 | | 28-06-2021 | `Lucy Strang` | ? |
-| | 05-07-2021 | ? | ? |
+| | 05-07-2021 | `Keven Ren` | ? |
 | :x: | 12-07-2021 | No speaker | ASA week |
 | | 19-07-2021 | ? | ? |
 | | 26-07-2021 | ? | ? |
