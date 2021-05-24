@@ -9,7 +9,7 @@
 | :white_check_mark: | 17-05-2021 | `Eduardo Schiappucci` | Pairwise kSZ: Measuring peculiar velocities (and more) with the CMB |
 | :white_check_mark: | 24-05-2021 | `Matthew Thomas` | Computational Implementation of Variational Solutions to the Boltzmann Equation for Gas Dynamics |
 | :white_check_mark: | | `Lennart Balkenhol` | CMB measurements of the growth of structure from SPT |
-| | 31-05-2021 | `Liam Dunn` | ? |
+| | 31-05-2021 | `Liam Dunn` | A pulsar timing pitfall due to periodic observations |
 | | 07-06-2021 | `Prakrut Chaubal` | ? |
 | | | `Nichole Barry` | ? |
 | | 14-06-2021 | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
