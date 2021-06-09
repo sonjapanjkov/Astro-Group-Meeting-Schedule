@@ -11,8 +11,8 @@
 | ✅ | | `Lennart Balkenhol` | CMB Measurements of the Growth of Structure from SPT |
 | ✅ | 31-05-2021 | `Liam Dunn` | A Pulsar Timing Pitfall due to Periodic Observations |
 | ✅ | | `	Thomas Truman` | Searching for the Smoking Gun of Dark Remnants in Globular Clusters |
-| | 07-06-2021 | `Prakrut Chaubal` | Speeding up Cosmological Parameter Estimation with Machine Learning |
-| | | `Nichole Barry` | Investigating the Basics of Radio Interferometry |
+| ✅ | 07-06-2021 | `Prakrut Chaubal` | Speeding up Cosmological Parameter Estimation with Machine Learning |
+| ✅ | | `Nichole Barry` | Investigating the Basics of Radio Interferometry |
 | | 14-06-2021 | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
 | | 21-06-2021 | `Thomas Behrendt` |  |
 | | 28-06-2021 | `Lucy Strang` | ? |
