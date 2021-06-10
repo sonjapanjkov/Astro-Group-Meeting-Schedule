@@ -13,8 +13,9 @@
 | ✅ | | `	Thomas Truman` | Searching for the Smoking Gun of Dark Remnants in Globular Clusters |
 | ✅ | 07-06-2021 | `Prakrut Chaubal` | Speeding up Cosmological Parameter Estimation with Machine Learning |
 | ✅ | | `Nichole Barry` | Investigating the Basics of Radio Interferometry |
-| | 14-06-2021 | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
+| ❌ | 14-06-2021 | No speaker | Public Holiday |
 | | 21-06-2021 | `Thomas Behrendt` |  |
+| | | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
 | | 28-06-2021 | `Lucy Strang` | ? |
 | | 05-07-2021 | `Keven Ren` | ? |
 | :x: | 12-07-2021 | No speaker | ASA week |
