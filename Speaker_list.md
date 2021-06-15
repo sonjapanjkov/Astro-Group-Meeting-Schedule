@@ -14,10 +14,10 @@
 | ✅ | 07-06-2021 | `Prakrut Chaubal` | Speeding up Cosmological Parameter Estimation with Machine Learning |
 | ✅ | | `Nichole Barry` | Investigating the Basics of Radio Interferometry |
 | ❌ | 14-06-2021 | No speaker | Public Holiday |
-| | 21-06-2021 | `Thomas Behrendt` |  |
+| | 21-06-2021 | `Yuxiang Qin` |  |
 | | 28-06-2021 | `Lucy Strang` | ? |
 | | | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
 | | 05-07-2021 | `Keven Ren` | ? |
-| :x: | 12-07-2021 | No speaker | ASA week |
-| | 19-07-2021 | ? | ? |
+| ❌ | 12-07-2021 | No speaker | ASA week |
+| | 19-07-2021 | `Thomas Behrendt` | ? |
 | | 26-07-2021 | ? | ? |
