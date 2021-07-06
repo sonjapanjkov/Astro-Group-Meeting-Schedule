@@ -17,7 +17,7 @@
 | ✅ | 21-06-2021 | `Yuxiang Qin` | The Lyman-alpha IGM Transmission |
 | ✅ | 28-06-2021 | `Lucy Strang` | Searches for continuous gravitational waves from young supernova remnants in the early third observing run of Advanced LIGO and Virgo |
 | ✅ | | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
-| | 05-07-2021 | `Keven Ren` | ? |
+| ✅ | 05-07-2021 | `Keven Ren` | Image Segmentation with Neural Networks |
 | ❌ | 12-07-2021 | No speaker | ASA week |
 | | 19-07-2021 | `Thomas Behrendt` | ? |
-| | 26-07-2021 | ? | ? |
+| | 26-07-2021 | Matt Thomas | ? |
