@@ -20,4 +20,5 @@
 | ✅ | 05-07-2021 | `Keven Ren` | Image Segmentation with Neural Networks |
 | ❌ | 12-07-2021 | No speaker | ASA week |
 | | 19-07-2021 | `Thomas Behrendt` | ? |
-| | 26-07-2021 | `Matthew Thomas` | ? |
+| | 26-07-2021 | ? | ? |
+| | 02-08-2021 | `Matthew Thomas` | ? |
