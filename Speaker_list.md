@@ -19,8 +19,8 @@
 | ✅ | | `Sonja Panjkov` | Search for a Present Day Supernova Signal in Terrestrial Archives |
 | ✅ | 05-07-2021 | `Keven Ren` | Image Segmentation with Neural Networks |
 | ❌ | 12-07-2021 | No speaker | ASA week |
-| | 19-07-2021 | `Thomas Behrendt` | Searching for gravitationally lensed Quasars |
-| | 26-07-2021 | `Bradley Greig` | ? |
+| ✅ | 19-07-2021 | `Thomas Behrendt` | Searching for gravitationally lensed Quasars |
+| | 26-07-2021 | ? | ? |
 | | 02-08-2021 | `Matthew Thomas` | ? |
 | | 09-08-2021 | ? | ? |
 | | 16-08-2021 | ? | ? |
