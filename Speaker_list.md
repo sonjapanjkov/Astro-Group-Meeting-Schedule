@@ -20,7 +20,8 @@
 | ✅ | 05-07-2021 | `Keven Ren` | Image Segmentation with Neural Networks |
 | ❌ | 12-07-2021 | No speaker | ASA week |
 | ✅ | 19-07-2021 | `Thomas Behrendt` | Searching for gravitationally lensed Quasars |
-| | 26-07-2021 | ? | ? |
+| | 26-07-2021 | `Benjamin Metha`
+`Aman Chokshi` | ? |
 | | 02-08-2021 | `Matthew Thomas` | ? |
 | | 09-08-2021 | ? | ? |
 | | 16-08-2021 | ? | ? |
