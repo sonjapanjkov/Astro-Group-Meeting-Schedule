@@ -22,7 +22,7 @@
 | ✅ | 19-07-2021 | `Thomas Behrendt` | Searching for gravitationally lensed Quasars |
 | ✅ | 26-07-2021 | `Benjamin Metha` & `Aman Chokshi` | AMSI winter school on Statistical Data Science showcase |
 | | 02-08-2021 | `Matthew Thomas` | ? |
-| | 09-08-2021 | `Bradley Greig` | ? |
+| | 09-08-2021 | ? | ? |
 | | 16-08-2021 | ? | ? |
 | | 23-08-2021 | ? | ? |
 | | 30-08-2021 | ? | ? |
