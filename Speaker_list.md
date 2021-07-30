@@ -21,7 +21,7 @@
 | ❌ | 12-07-2021 | No speaker | ASA week |
 | ✅ | 19-07-2021 | `Thomas Behrendt` | Searching for gravitationally lensed Quasars |
 | ✅ | 26-07-2021 | `Benjamin Metha` & `Aman Chokshi` | AMSI winter school on Statistical Data Science showcase |
-| | 02-08-2021 | `Matthew Thomas` | ? |
+| | 02-08-2021 | `Matthew Thomas` | Prospects for GRB Science with the SpIRIT Satellite |
 | | 09-08-2021 | ? | ? |
 | | 16-08-2021 | ? | ? |
 | | 23-08-2021 | ? | ? |
