@@ -23,10 +23,10 @@
 | ✅ | 26-07-2021 | `Benjamin Metha` & `Aman Chokshi` | AMSI winter school on Statistical Data Science showcase |
 | ✅ | 02-08-2021 | `Matthew Thomas` | Prospects for GRB Science with the SpIRIT Satellite |
 | | 09-08-2021 | ? | ? |
-| | 16-08-2021 | ? | ? |
+| | 16-08-2021 | `Bradley Greig` | ? |
 | | 23-08-2021 | ? | ? |
-| | 30-08-2021 | ? | ? |
-| | 06-09-2021 | ? | ? |
+| | 30-08-2021 | `Andres Vargas Sanchez`| ? |
+| | 06-09-2021 | `Meg Millhouse` | ? |
 | | 13-09-2021 | ? | ? |
 | | 20-09-2021 | ? | ? |
 | | 27-09-2021 | ? | ? |
