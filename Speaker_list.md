@@ -27,6 +27,6 @@
 | ✅ | 23-08-2021 | `George Howitt` | Anti-glitches in accretion-powered pulsars from superfluid vortex avalanches |
 | | 30-08-2021 | `Andres Vargas Sanchez`| ? |
 | | 06-09-2021 | `Meg Millhouse` | ? |
-| | 13-09-2021 | ? | ? |
+| | 13-09-2021 | Christine Lee | ? |
 | | 20-09-2021 | ? | ? |
 | | 27-09-2021 | ? | ? |
