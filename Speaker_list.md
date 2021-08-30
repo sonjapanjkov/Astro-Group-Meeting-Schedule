@@ -25,7 +25,7 @@
 | ✅ | 09-08-2021 | `Yuxiang Qin` | Reionization inference from the CMB optical depth and E-mode polarization power spectra |
 | ✅ | 16-08-2021 | `Bradley Greig` | Alternative statistics for reionisation (Scattering transform) |
 | ✅ | 23-08-2021 | `George Howitt` | Anti-glitches in accretion-powered pulsars from superfluid vortex avalanches |
-| | 30-08-2021 | `Andres Vargas Sanchez`| ? |
+| | 30-08-2021 | `Andres Vargas Sanchez`| Searching for continuous gravitational waves from Scorpius X-1 |
 | | 06-09-2021 | `Meg Millhouse` | ? |
 | | 13-09-2021 | Christine Lee | ? |
 | | 20-09-2021 | ? | ? |
