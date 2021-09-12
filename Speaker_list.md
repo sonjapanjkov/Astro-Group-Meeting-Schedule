@@ -29,4 +29,4 @@
 | | 06-09-2021 | `Meg Millhouse` | Bayesian evidence calculations from reversible jump Markov chain Monte Carlo methods |
 | | 13-09-2021 | `Christine Lee` | ? |
 | | 20-09-2021 | `Andres Vargas Sanchez`| Searching for continuous gravitational waves from Scorpius X-1 |
-| | 27-09-2021 | ? | ? |
+| | 27-09-2021 | `Lennart Balkenhol` | ? |
