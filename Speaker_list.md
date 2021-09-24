@@ -31,7 +31,7 @@
 | ✅ | 20-09-2021 | `Andres Vargas Sanchez`| Searching for continuous gravitational waves from Scorpius X-1 |
 | | 27-09-2021 | `Lennart Balkenhol` | ? |
 | | 04-10-2021 | `Filippo Anzuini` | Magneto-thermal evolution of neutron stars with hyperon cores |
-| | 11-10-2021 | |
+| | 11-10-2021 | `Bart Pindor` | ? |
 | | 18-10-2021 | |
 | | 25-10-2021 | |
 | | 01-11-2021 | |
