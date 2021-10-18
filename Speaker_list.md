@@ -32,7 +32,7 @@
 | ✅ | 27-09-2021 | `Lennart Balkenhol` | Consistency of Planck, ACT and SPT constraints on magnetically assisted recombination and forecasts for future experiments |
 | ✅ | 04-10-2021 | `Filippo Anzuini` | Magneto-thermal evolution of neutron stars with hyperon cores |
 | ✅ | 11-10-2021 | `Bart Pindor` | Is Fusion Energy Going to be a Thing? |
-| | 18-10-2021 | `Balu Sreedhar` | Impact of Galaxy Formation on 21 cm Global Signal |
+| ✅ | 18-10-2021 | `Balu Sreedhar` | Impact of Galaxy Formation on 21 cm Global Signal |
 | | 25-10-2021 | ? |
 | | 01-11-2021 | ? |
 | | 08-11-2021 | `Julian Carlin` | What could we learn from a CW detection? |
