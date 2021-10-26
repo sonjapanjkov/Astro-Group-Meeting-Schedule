@@ -36,5 +36,5 @@
 | | 25-10-2021 | `Yuxiang Qin` | The Lyman alpha IGM transmission — part 2 |
 | | 01-11-2021 | `Oliver Anagnostou` |
 | | 08-11-2021 | `Julian Carlin` | What could we learn from a CW detection? |
-| | 15-11-2021 | ? |
+| | 15-11-2021 | `Jack Hon` |
 | | 29-11-2021 | ? |
