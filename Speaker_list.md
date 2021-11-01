@@ -34,7 +34,7 @@
 | ✅ | 11-10-2021 | `Bart Pindor` | Is Fusion Energy Going to be a Thing? |
 | ✅ | 18-10-2021 | `Balu Sreedhar` | Impact of Galaxy Formation on 21 cm Global Signal |
 | ✅ | 25-10-2021 | `Yuxiang Qin` | The Lyman alpha IGM transmission — part 2 |
-| | 01-11-2021 | `Oliver Anagnostou` |
+| | 01-11-2021 | `Oliver Anagnostou` | Primordial black holes: who are they and what are they like? |
 | | 08-11-2021 | `Julian Carlin` | What could we learn from a CW detection? |
 | | 15-11-2021 | `Jack Hon` |
 | | 29-11-2021 | ? |
