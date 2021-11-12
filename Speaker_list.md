@@ -37,5 +37,6 @@
 | ✅ | 01-11-2021 | `Oliver Anagnostou` | Primordial black holes: who are they and what are they like? |
 | ✅ | 08-11-2021 |  | MSc talks |
 | | 15-11-2021 | `Jack Hon` |
+| | | `Meg Millhouse` | |
 | | 29-11-2021 | `Filippo Anzuini` |  |
 | | | `Julian Carlin` | What could we learn from a CW detection? |
