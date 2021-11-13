@@ -36,7 +36,7 @@
 | ✅ | 25-10-2021 | `Yuxiang Qin` | The Lyman alpha IGM transmission — part 2 |
 | ✅ | 01-11-2021 | `Oliver Anagnostou` | Primordial black holes: who are they and what are they like? |
 | ✅ | 08-11-2021 |  | MSc talks |
-| | 15-11-2021 | `Jack Hon` |
-| | | `Meg Millhouse` | |
+| | 15-11-2021 | `Jack Hon` | 6dFGS AGN Catalogue |
+| | | `Meg Millhouse` | Rundown on latest LIGO catalogue |
 | | 29-11-2021 | `Filippo Anzuini` |  |
 | | | `Julian Carlin` | What could we learn from a CW detection? |
