@@ -38,5 +38,6 @@
 | ✅ | 08-11-2021 |  | MSc talks |
 | ✅ | 15-11-2021 | `Jack Hon` | 6dFGS AGN Catalogue |
 | ✅ | | `Meg Millhouse` | Rundown on the latest LIGO catalogue |
+| | 22-11-2021 | |  |
 | | 29-11-2021 | `Filippo Anzuini` |  |
 | | | `Julian Carlin` | What could we learn from a CW detection? |
