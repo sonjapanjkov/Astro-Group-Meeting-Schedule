@@ -38,7 +38,7 @@
 | ✅ | 08-11-2021 |  | MSc talks |
 | ✅ | 15-11-2021 | `Jack Hon` | 6dFGS AGN Catalogue |
 | ✅ | | `Meg Millhouse` | Rundown on the latest LIGO catalogue |
-| | 22-11-2021 | `Christine Lee Yi Shuen` | The legends, myths and science of the killer whale |
-| | | `	Miftahul Hilmi` | Contamination of z ~ 8 Lyman Break Galaxies in the Hubble Data: Correlation with z ~ 2 Balmer Break Galaxies |
-| | 29-11-2021 | `Filippo Anzuini` |  |
+| ✅ | 22-11-2021 | `Christine Lee Yi Shuen` | The legends, myths and science of the killer whale |
+| ✅ | | `	Miftahul Hilmi` | Contamination of z ~ 8 Lyman Break Galaxies in the Hubble Data: Correlation with z ~ 2 Balmer Break Galaxies |
+| | 29-11-2021 | `Filippo Anzuini` | Dense matter and magnetic fields in neutron stars |
 | | | `Julian Carlin` | What could we learn from a CW detection? |
