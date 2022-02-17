@@ -7,7 +7,7 @@
 | ✅ | 14/02 | `Noura Alonzi` | Finding Southern Hemisphere Sky Quasars By Using Random Forest Machine Learning |
 | | 21/02 | `Emanuele Maria Ventura` |  |
 | | 28/02 | `Giovanni Ferrami` |  |
-| | 07/03 |  |  |
+| | 07/03 | `Aadarsh Pathak` |  |
 | | 14/03 |  |  |
 | | 21/03 |  |  |
 | | 28/03 |  |  |
