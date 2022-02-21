@@ -9,7 +9,7 @@
 | | 28/02 | `Giovanni Ferrami` |  |
 | | 07/03 | `Aadarsh Pathak` |  |
 | | 14/03 | `Boxiang Fu` |  |
-| | 21/03 |  |  |
+| | 21/03 | `Julian Carlin` | What could we learn from a CW detection? |
 | | 28/03 | `Sonja Panjkov` |  |
 | | 04/04 |  |  |
 | | 11/04 |  |  |
