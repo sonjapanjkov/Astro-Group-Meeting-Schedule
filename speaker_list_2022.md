@@ -14,4 +14,6 @@
 | | 04/04 | `Aadarsh Pathak` |  |
 | | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
 | | 18/04 | | |
-| | 25/04 | Arwa Abdulghafour | |
+| | 25/04 | `Arwa Abdulghafour` | |
+| | 02/05 | | |
+| | 09/05 | | |
