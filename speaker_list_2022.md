@@ -11,9 +11,9 @@
 | ✅ | 14/03 | `Boxiang Fu` | Latrobe Valley Geothermal Energy Generation Economic Modelling |
 | | 21/03 | `Julian Carlin` | What could we learn from a CW detection? |
 | | 28/03 | `Moritz Hübner` |  |
-| | 04/04 | `Aadarsh Pathak` |  |
+| | 04/04 | `Sonja Panjkov` |  |
 | | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
-| | 18/04 | | |
+| | 18/04 | `Aadarsh Pathak` | |
 | | 25/04 | `Arwa Abdulghafour` | |
 | | 02/05 | | |
 | | 09/05 | | |
