@@ -10,7 +10,7 @@
 | ✅ | 07/03 | `Lennart Balkenhol` | Hints of Early Dark Energy in Planck, SPT, and ACT data: New Physics or Systematics? |
 | ✅ | 14/03 | `Boxiang Fu` | Latrobe Valley Geothermal Energy Generation Economic Modelling |
 | | 21/03 | `Julian Carlin` | What could we learn from a CW detection? |
-| | 28/03 | `Sonja Panjkov` |  |
+| | 28/03 | `Moritz Hübner` |  |
 | | 04/04 | `Aadarsh Pathak` |  |
 | | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
 | | 18/04 | | |
