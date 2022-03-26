@@ -9,8 +9,8 @@
 | ✅ | 28/02 | `Giovanni Ferrami` | Rotation and State of Relaxation of the Galactic Component of the Clusters of Galaxies Abell S1063 and MACS J1206 |
 | ✅ | 07/03 | `Lennart Balkenhol` | Hints of Early Dark Energy in Planck, SPT, and ACT data: New Physics or Systematics? |
 | ✅ | 14/03 | `Boxiang Fu` | Latrobe Valley Geothermal Energy Generation Economic Modelling |
-| | 21/03 | `Julian Carlin` | What could we learn from a CW detection? |
-| | 28/03 | `Moritz Hübner` |  |
+| | 21/03 | - | - |
+| | 28/03 | `Moritz Hübner` | Analysing QPOs using Gaussian Processes |
 | | 04/04 | `Sonja Panjkov` |  |
 | | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
 | | 18/04 | `Aadarsh Pathak` | |
