@@ -13,7 +13,10 @@
 | ✅ | 28/03 | `Moritz Hübner` | Analysing QPOs using Gaussian Processes |
 | | 04/04 | `Sonja Panjkov` | Supernova Progenitors of the Magellanic clouds |
 | | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
-| | 18/04 | `Aadarsh Pathak` | |
-| | 25/04 | `Arwa Abdulghafour` | |
-| | 02/05 | | |
-| | 09/05 | | |
+| ❌ | 18/04 | - | - |
+| ❌ | 25/04 | - | - |
+| | 02/05 | `Arwa Abdulghafour` | |
+| | 09/05 | `Aadarsh Pathak` | |
+| | 16-05 | | |
+| | 23-05 | | |
+
