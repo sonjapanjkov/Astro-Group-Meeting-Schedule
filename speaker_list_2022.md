@@ -10,8 +10,8 @@
 | ✅ | 07/03 | `Lennart Balkenhol` | Hints of Early Dark Energy in Planck, SPT, and ACT data: New Physics or Systematics? |
 | ✅ | 14/03 | `Boxiang Fu` | Latrobe Valley Geothermal Energy Generation Economic Modelling |
 | ❌ | 21/03 | - | - |
-| | 28/03 | `Moritz Hübner` | Analysing QPOs using Gaussian Processes |
-| | 04/04 | `Sonja Panjkov` |  |
+| ✅ | 28/03 | `Moritz Hübner` | Analysing QPOs using Gaussian Processes |
+| | 04/04 | `Sonja Panjkov` | Supernova Progenitors of the Magellanic clouds |
 | | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
 | | 18/04 | `Aadarsh Pathak` | |
 | | 25/04 | `Arwa Abdulghafour` | |
