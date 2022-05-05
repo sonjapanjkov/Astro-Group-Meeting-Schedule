@@ -15,7 +15,7 @@
 | ✅ | 11/04 | `Benjamin Metha` | Probability as Logical Inference (aka Benji does a dramatic reading of a very strange textbook) |
 | ❌ | 18/04 | - | - |
 | ❌ | 25/04 | - | - |
-| | 02/05 |	`Arthur-George Suvorov` | Wave-Optical Lensing of Gravitational and Electromagnetic Waves via Picard-Lefschetz Theory [:page_with_curl:](./slides/Picard_Melbourne_2:5.pdf) |
+| | 02/05 |	`Arthur-George Suvorov` | Wave-Optical Lensing of Gravitational and Electromagnetic Waves via Picard-Lefschetz Theory [:page_with_curl:](./slides/Picard_Melbourne_2:5.pdf){:target="\_blank"} |
 | | 09/05 | `Arwa Abdulghafour` | |
 | | 16/05 | `Aadarsh Pathak` | |
 | | 23/05 | | |
