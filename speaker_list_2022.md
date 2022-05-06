@@ -18,7 +18,9 @@
 | | 02/05 |	`Arthur-George Suvorov` | Wave-Optical Lensing of Gravitational and Electromagnetic Waves via Picard-Lefschetz Theory [:page_with_curl:](./slides/Picard_Melbourne_2:5.pdf) |
 | | 09/05 | `Arwa Abdulghafour` | |
 | | 16/05 | `Aadarsh Pathak` | |
-| | 23/05 |`test` | |
+| | 23/05 | | |
 | | 30/05 | | |
 | | 06/06 | | |
 | | 13/06 | | |
+| | 20/06 | | | 
+| ❌ | 27/06 | `ASA ASM` | |
