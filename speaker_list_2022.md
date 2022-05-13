@@ -20,7 +20,7 @@
 | | 16/05 | `Aadarsh Pathak` | Distinguishing Reionization Models using the Largest Cluster Statistics of the 21-cm maps |
 | | 23/05 | `Behzad Ansarinejad` | Unravelling Cosmic Mysteries with the CMB and Large-scale Structure |
 | | 30/05 | `Teppei Minoda`| |
-| | 06/06 | | |
+| | 06/06 | `Oliver Anagnostou`| |
 | | 13/06 | `Jemma Pilossof` | |
 | | 20/06 | | |
 | ❌ | 27/06 | `ASA ASM` | - |
