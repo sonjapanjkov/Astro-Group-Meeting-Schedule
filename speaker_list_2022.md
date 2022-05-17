@@ -26,4 +26,5 @@
 | ❌ | 27/06 | `ASA ASM` | - |
 | | 04/07 | `Cassidy Mihalenko` | |
 | | 11/07 | | |
-| | 18/07 | `Justin Clancy` | |
+| | 18/07 | | |
+| | 25/07 | `Justin Clancy` | |
