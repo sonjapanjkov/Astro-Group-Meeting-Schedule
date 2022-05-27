@@ -18,8 +18,8 @@
 | ✅  | 02/05 |	`Arthur-George Suvorov` | Wave-Optical Lensing of Gravitational and Electromagnetic Waves via Picard-Lefschetz Theory [:page_with_curl:](./slides/Picard_Melbourne_2:5.pdf) |
 | ✅ | 09/05 | `Arwa Abdulghafour` |Cosmological Parameter Constraints using the Fisher Matrix |
 | ✅ | 16/05 | `Aadarsh Pathak` | Distinguishing Reionization Models using the Largest Cluster Statistics of the 21-cm maps |
-| | 23/05 | `Behzad Ansarinejad` | Unravelling Cosmic Mysteries with the CMB and Large-scale Structure |
-| | 30/05 | `Teppei Minoda`| |
+| ✅  | 23/05 | `Behzad Ansarinejad` | Unravelling Cosmic Mysteries with the CMB and Large-scale Structure |
+| | 30/05 | `Teppei Minoda`| Probing the Primordial Perturbations with 21-cm Observations |
 | | 06/06 | `Oliver Anagnostou`| |
 | | 13/06 | `Jemma Pilossof` | |
 | | 20/06 | `Qinan Wang` | |
