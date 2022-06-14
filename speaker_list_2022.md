@@ -20,9 +20,9 @@
 | ✅ | 16/05 | `Aadarsh Pathak` | Distinguishing Reionization Models using the Largest Cluster Statistics of the 21-cm maps |
 | ✅ | 23/05 | `Behzad Ansarinejad` | Unravelling Cosmic Mysteries with the CMB and Large-scale Structure |
 | ✅  | 30/05 | `Teppei Minoda`| Probing the Primordial Perturbations with 21-cm Observations |
-| | 06/06 | `Oliver Anagnostou`| |
+| ✅ | 06/06 | `Oliver Anagnostou`| The First Images of Sag A* from the Event Horizon Telescope |
 | ❌ | 13/06 | `Queen's Birthday Public Holiday` | |
-| | 20/06 | `Qinan Wang` | |
+| | 20/06 | `Qinan Wang (University of Maryland)` | Constraining Supernova Explosions with High Cadence Lightcurves from Kepler/TESS |
 | ❌ | 27/06 | `ASA ASM` | - |
 | | 04/07 | `Cassidy Mihalenko` | |
 | | 11/07 | `Jemma Pilossof`| |
