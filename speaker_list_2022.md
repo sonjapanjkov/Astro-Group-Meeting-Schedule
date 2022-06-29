@@ -22,7 +22,7 @@
 | ✅  | 30/05 | `Teppei Minoda`| Probing the Primordial Perturbations with 21-cm Observations |
 | ✅ | 06/06 | `Oliver Anagnostou`| The First Images of Sag A* from the Event Horizon Telescope |
 | ❌ | 13/06 | `Queen's Birthday Public Holiday` | |
-| | 20/06 | `Qinan Wang (University of Maryland)` | Constraining Supernova Explosions with High Cadence Lightcurves from Kepler/TESS |
+| ✅ | 20/06 | `Qinan Wang (University of Maryland)` | Constraining Supernova Explosions with High Cadence Lightcurves from Kepler/TESS |
 | ❌ | 27/06 | `ASA ASM` | - |
 | | 04/07 | `Cassidy Mihalenko` | Photometric Identification of Transient Events |
 | | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
