@@ -24,8 +24,8 @@
 | ❌ | 13/06 | `Queen's Birthday Public Holiday` | |
 | | 20/06 | `Qinan Wang (University of Maryland)` | Constraining Supernova Explosions with High Cadence Lightcurves from Kepler/TESS |
 | ❌ | 27/06 | `ASA ASM` | - |
-| | 04/07 | `Cassidy Mihalenko` | |
-| | 11/07 | `Jemma Pilossof`| |
+| | 04/07 | `Cassidy Mihalenko` | Photometric Identification of Transient Events |
+| | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
 | | 18/07 | | |
 | | 25/07 | `Justin Clancy` | |
 | | 01/08 | | |
