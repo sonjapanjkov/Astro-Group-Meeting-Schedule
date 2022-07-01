@@ -28,7 +28,7 @@
 | | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
 | | 18/07 | | |
 | | 25/07 | `Justin Clancy` | |
-| | 01/08 | | |
+| | 01/08 | `Nikhil Sarin` | |
 | | 08/08 | | |
 | | 15/08 | | |
 | | 22/08 | | |
