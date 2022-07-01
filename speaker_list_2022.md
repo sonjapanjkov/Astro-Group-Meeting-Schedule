@@ -26,7 +26,7 @@
 | ❌ | 27/06 | `ASA ASM` | - |
 | | 04/07 | `Cassidy Mihalenko` | Photometric Identification of Transient Events |
 | | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
-| | 18/07 | | |
+| | 18/07 | `Dana Jones` | |
 | | 25/07 | `Justin Clancy` | |
 | | 01/08 | `Nikhil Sarin` | |
 | | 08/08 | | |
