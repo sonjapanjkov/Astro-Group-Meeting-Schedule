@@ -26,7 +26,7 @@
 | ❌ | 27/06 | `ASA ASM` | - |
 | ✅ | 04/07 | `Cassidy Mihalenko` | Photometric Identification of Transient Events |
 | ✅ | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
-|  | 18/07 | `Dana Jones` | Searching for Long-Duration Gravitational Waves from Ultralight Boson Clouds |
+| ✅ | 18/07 | `Dana Jones` | Searching for Long-Duration Gravitational Waves from Ultralight Boson Clouds |
 | | 25/07 | `Justin Clancy` | |
 | | 01/08 | `Nikhil Sarin` | |
 | | 08/08 | | |
@@ -34,6 +34,6 @@
 | | 22/08 | | |
 | | 29/08 | | |
 | | 05/09 | | |
-| | 12/09 | | |
+| | 12/09 | `Balu Sreedhar` | |
 | | 19/09 | | |
 | | 26/09 | | |
