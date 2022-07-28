@@ -30,7 +30,7 @@
 | | 25/07 | `Justin Clancy` | Polarisation of Galactic Cold Clumps in the CMB |
 | | 01/08 | `Nikhil Sarin` | |
 | | 08/08 | | |
-| | 15/08 | | |
+| | 15/08 | `Christine Lee` | |
 | | 22/08 | | |
 | | 29/08 | | |
 | | 05/09 | | |
