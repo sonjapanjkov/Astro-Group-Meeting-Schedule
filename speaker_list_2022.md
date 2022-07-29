@@ -31,9 +31,9 @@
 | | 01/08 | `Nikhil Sarin` | |
 | | 08/08 | | |
 | | 15/08 | `Christine Lee` | |
-| | 22/08 | | |
+| | 22/08 | `Filippo Anzuini` | |
 | | 29/08 | `Andres Vargas` | |
-| | 05/09 | | |
+| | 05/09 | `Ryan Brunet` | |
 | | 12/09 | `Balu Sreedhar` | |
 | | 19/09 | | |
 | | 26/09 | | |
