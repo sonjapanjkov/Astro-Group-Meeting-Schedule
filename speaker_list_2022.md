@@ -27,9 +27,9 @@
 | ✅ | 04/07 | `Cassidy Mihalenko` | Photometric Identification of Transient Events |
 | ✅ | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
 | ✅ | 18/07 | `Dana Jones` | Searching for Long-Duration Gravitational Waves from Ultralight Boson Clouds |
-| | 25/07 | `Justin Clancy` | Polarisation of Galactic Cold Clumps in the CMB |
-| | 01/08 | `Nikhil Sarin` | |
-| | 08/08 | | |
+| ✅  | 25/07 | `Justin Clancy` | Polarisation of Galactic Cold Clumps in the CMB |
+| | 01/08 | `Nikhil Sarin` | Leveraging Electromagnetic Transient Observations to Learn About Neutron Star Binaries | 
+| | 08/08 | `Nicolo Dalmasso` |  |
 | | 15/08 | `Christine Lee` | |
 | | 22/08 | `Filippo Anzuini` | |
 | | 29/08 | `Andres Vargas` | |
