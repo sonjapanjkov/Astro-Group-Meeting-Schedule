@@ -29,7 +29,7 @@
 | ✅ | 18/07 | `Dana Jones` | Searching for Long-Duration Gravitational Waves from Ultralight Boson Clouds |
 | ✅ | 25/07 | `Justin Clancy` | Polarisation of Galactic Cold Clumps in the CMB |
 | ✅ | 01/08 | `Nikhil Sarin (Nordita Institue)` | Leveraging Electromagnetic Transient Observations to Learn About Neutron Star Binaries | 
-| | 08/08 | `Nicolo Dalmasso` | How to Make GOOD(s) Galaxy Clustering Measurements |
+| ✅ | 08/08 | `Nicolo Dalmasso` | How to Make GOOD(s) Galaxy Clustering Measurements |
 | | 15/08 | `Christine Lee` | |
 | | 22/08 | `Filippo Anzuini (Monash University)` | |
 | | 29/08 | `Andres Vargas` | |
