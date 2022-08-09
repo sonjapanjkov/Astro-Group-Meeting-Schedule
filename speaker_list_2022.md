@@ -28,15 +28,15 @@
 | ✅ | 11/07 | `Jemma Pilossof`|  Gamma Ray Properties of Mixed Morphology Supernova Remnants |
 | ✅ | 18/07 | `Dana Jones` | Searching for Long-Duration Gravitational Waves from Ultralight Boson Clouds |
 | ✅ | 25/07 | `Justin Clancy` | Polarisation of Galactic Cold Clumps in the CMB |
-| ✅ | 01/08 | `Nikhil Sarin` | Leveraging Electromagnetic Transient Observations to Learn About Neutron Star Binaries | 
+| ✅ | 01/08 | `Nikhil Sarin (Nordita Institue)` | Leveraging Electromagnetic Transient Observations to Learn About Neutron Star Binaries | 
 | | 08/08 | `Nicolo Dalmasso` | How to Make GOOD(s) Galaxy Clustering Measurements |
 | | 15/08 | `Christine Lee` | |
-| | 22/08 | `Filippo Anzuini` | |
+| | 22/08 | `Filippo Anzuini (Monash University)` | |
 | | 29/08 | `Andres Vargas` | |
 | | 05/09 | `Ryan Brunet` | |
 | | 12/09 | `Balu Sreedhar` | |
 | | 19/09 | `Prakrut Chaubal` | |
-| | 26/09 | `Matt Thomas` | |
+| | 26/09 | `Keerthi Vasan G.C. (University of California Davis)` | |
 | | 03/10 |  | |
 | | 10/10 |  | |
 | | 17/10 |  | |
