@@ -1,4 +1,4 @@
-# Astro-Group-Meeting
+# Astro Group Meeting Schedule
 
 | | Date| Speaker | Title |
 | --- | --- | --- | --- |
@@ -43,7 +43,7 @@
 | | 24/10 |  | |
 | | 31/10 |  | |
 | | 07/11 |  | |
-| | 14/11 |  | |
+| | 14/11 | `Reinhold Willcox (Monash University)` | |
 | | 21/11 |  | |
 | | 28/11 |  | |
 | | 05/12 |  | |
