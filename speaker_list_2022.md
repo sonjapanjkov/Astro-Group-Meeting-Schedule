@@ -30,7 +30,7 @@
 | ✅ | 25/07 | `Justin Clancy` | Polarisation of Galactic Cold Clumps in the CMB |
 | ✅ | 01/08 | `Nikhil Sarin (Nordita Institue)` | Leveraging Electromagnetic Transient Observations to Learn About Neutron Star Binaries | 
 | ✅ | 08/08 | `Nicolo Dalmasso` | How to Make GOOD(s) Galaxy Clustering Measurements |
-| | 15/08 | `Christine Lee` | On Gravitational Wave Searches and Opinion Dynamics |
+| | 15/08 | `Christine Lee` | On Gravitational Wave Burst Searches and Opinion Dynamics |
 | | 22/08 | `Filippo Anzuini (Monash University)` | |
 | | 29/08 | `Andres Vargas` | |
 | | 05/09 | `Ryan Brunet` | |
