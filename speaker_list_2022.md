@@ -31,8 +31,8 @@
 | ✅ | 01/08 | `Nikhil Sarin (Nordita Institue)` | Leveraging Electromagnetic Transient Observations to Learn About Neutron Star Binaries | 
 | ✅ | 08/08 | `Nicolo Dalmasso` | How to Make GOOD(s) Galaxy Clustering Measurements |
 | ✅ | 15/08 | `Christine Lee` | On Gravitational Wave Burst Searches and Opinion Dynamics |
-| | 22/08 | `Filippo Anzuini (Monash University)` | Axion Phenomenology in Magnetized Neutron Stars |
-| | 29/08 | `Andres Vargas` | |
+| ✅  | 22/08 | `Filippo Anzuini (Monash University)` | Axion Phenomenology in Magnetized Neutron Stars |
+| | 29/08 | `Andres Vargas` | Search for Continuous Gravitational Waves from PSR J0437-4715 with a Hidden Markov model in O3 LIGO Data |
 | | 05/09 | `Ryan Brunet` | |
 | | 12/09 | `Balu Sreedhar` | |
 | | 19/09 | `Prakrut Chaubal` | |
