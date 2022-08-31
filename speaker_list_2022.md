@@ -42,7 +42,7 @@
 | | 17/10 |  | |
 | | 24/10 | `Matt Thomas` | |
 | | 31/10 |  | |
-| | 07/11 |  | |
+| | 07/11 | `Katsuya Abe (Nagoya University)` | |
 | | 14/11 | `Reinhold Willcox (Monash University)` | |
 | | 21/11 |  | |
 | | 28/11 |  | |
