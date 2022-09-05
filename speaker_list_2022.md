@@ -33,19 +33,19 @@
 | ✅ | 15/08 | `Christine Lee` | On Gravitational Wave Burst Searches and Opinion Dynamics |
 | ✅ | 22/08 | `Filippo Anzuini (Monash University)` | Axion Phenomenology in Magnetized Neutron Stars |
 | ✅ | 29/08 | `Andres Vargas` | Search for Continuous Gravitational Waves from PSR J0437-4715 with a Hidden Markov model in O3 LIGO Data |
-| | 05/09 | `Michael Doohan` | Optimal Delensing of the CMB with MUSE |
+| ✅ | 05/09 | `Michael Doohan` | Optimal Delensing of the CMB with MUSE |
 | | 12/09 | `Balu Sreedhar` | |
 | | 19/09 | `Prakrut Chaubal` | |
 | | 26/09 | `Keerthi Vasan G.C. (University of California Davis)` | |
 | | 03/10 |  | |
 | | 10/10 |  | |
-| | 17/10 |  | |
-| | 24/10 | `Matt Thomas` | |
+| | 17/10 | `Liam Dunn` | |
+| | 24/10 | `Tracy Bu` | |
 | | 31/10 | `Giovanni Ferrami` | |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | |
 | | 14/11 | `Reinhold Willcox (Monash University)` | |
-| | 21/11 |  | |
-| | 28/11 |  | |
+| ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
+| | 28/11 | `Matt Thomas` | |
 | | 05/12 |  | |
 | | 12/12 |  | |
 | | 19/12 |  | |
