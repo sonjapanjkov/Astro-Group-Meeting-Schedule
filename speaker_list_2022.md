@@ -38,7 +38,7 @@
 | | 19/09 | `Prakrut Chaubal` | |
 | | 26/09 | `Keerthi Vasan G.C. (University of California Davis)` | |
 | | 03/10 |  | |
-| | 10/10 |  | |
+| | 10/10 | `Julian Carlin` | |
 | | 17/10 | `Liam Dunn` | |
 | | 24/10 | `Tracy Bu` | |
 | | 31/10 | `Giovanni Ferrami` | |
