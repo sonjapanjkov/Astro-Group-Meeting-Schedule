@@ -34,10 +34,10 @@
 | ✅ | 22/08 | `Filippo Anzuini (Monash University)` | Axion Phenomenology in Magnetized Neutron Stars |
 | ✅ | 29/08 | `Andres Vargas` | Search for Continuous Gravitational Waves from PSR J0437-4715 with a Hidden Markov model in O3 LIGO Data |
 | ✅ | 05/09 | `Michael Doohan` | Optimal Delensing of the CMB with MUSE |
-| | 12/09 | `Balu Sreedhar` | Your Sins and Causes |
+| ✅ | 12/09 | `Balu Sreedhar` | Your Sins and Causes |
 | | 19/09 | `Prakrut Chaubal` | |
 | | 26/09 | `Keerthi Vasan G.C. (University of California Davis)` | |
-| | 03/10 |  | |
+| | 03/10 | `Kit Boyett` | |
 | | 10/10 | `Julian Carlin` | |
 | | 17/10 | `Liam Dunn` | |
 | | 24/10 | `Tracy Bu` | |
