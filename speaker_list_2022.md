@@ -36,7 +36,7 @@
 | ✅ | 05/09 | `Michael Doohan` | Optimal Delensing of the CMB with MUSE |
 | ✅ | 12/09 | `Balu Sreedhar` | Your Sins and Causes |
 | ✅ | 19/09 | `Prakrut Chaubal` | What Everyone Should Know About Computers to Optimise their Code |
-| | 26/09 | `Pedro Rossetto` | |
+| | 26/09 | `Pedro Rossetto` | Chaos on Hyperbolic Pair of Pants |
 | | 03/10 | `Kit Boyett` | |
 | | 10/10 | `Julian Carlin` | |
 | | 17/10 | `Liam Dunn` | |
