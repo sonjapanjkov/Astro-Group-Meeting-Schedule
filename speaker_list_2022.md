@@ -46,6 +46,6 @@
 | | 14/11 | `Reinhold Willcox (Monash University)` | |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
 | | 28/11 | `Matt Thomas` | |
-| | 05/12 |  | |
-| | 12/12 |  | |
+| | 05/12 | `Tom Kimpson` | |
+| | 12/12 | `Joe O'leary` | |
 | | 19/12 |  | |
