@@ -38,8 +38,8 @@
 | ✅ | 19/09 | `Prakrut Chaubal` | What Everyone Should Know About Computers to Optimise their Code |
 | ✅ | 26/09 | `Pedro Rossetto` | Chaos on Hyperbolic Pair of Pants |
 | ✅ | 03/10 | `Kit Boyett` | What Can Equivalent Width Distributions Tell Us About the EoR? |
-| ✅ | 10/10 | `Julian Carlin` | What might We Learn from a Continuous Gravitational Wave Detection? |
-| | 17/10 | `Liam Dunn` | |
+| ✅ | 10/10 | `Julian Carlin` | What Might We Learn from a Continuous Gravitational Wave Detection? |
+| ✅ | 17/10 | `Liam Dunn` | A New Small Glitch in the Vela Pulsar |
 | | 24/10 | `Tracy Bu` | |
 | | 31/10 | `Giovanni Ferrami` | |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | |
