@@ -40,8 +40,8 @@
 | ✅ | 03/10 | `Kit Boyett` | What Can Equivalent Width Distributions Tell Us About the EoR? |
 | ✅ | 10/10 | `Julian Carlin` | What Might We Learn from a Continuous Gravitational Wave Detection? |
 | ✅ | 17/10 | `Liam Dunn` | A New Small Glitch in the Vela Pulsar |
-| | 24/10 | `Tracy Bu` | |
-| | 31/10 | `Giovanni Ferrami` | |
+| ✅ | 24/10 | `Giovanni Ferrami` | Effect of Source Size and Lens Ellipticity on the Luminosity Function Bright-End |
+| | 31/10 | `` |  |
 | | 07/11 | `Katsuya Abe (Nagoya University)` | |
 | | 14/11 | `Reinhold Willcox (Monash University)` | |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
