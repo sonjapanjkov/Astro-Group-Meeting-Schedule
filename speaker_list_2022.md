@@ -41,9 +41,9 @@
 | ✅ | 10/10 | `Julian Carlin` | What Might We Learn from a Continuous Gravitational Wave Detection? |
 | ✅ | 17/10 | `Liam Dunn` | A New Small Glitch in the Vela Pulsar |
 | ✅ | 24/10 | `Giovanni Ferrami` | Effect of Source Size and Lens Ellipticity on the Luminosity Function Bright-End |
-| | 31/10 | `` |  |
-| | 07/11 | `Katsuya Abe (Nagoya University)` | |
-| | 14/11 | `Reinhold Willcox (Monash University)` | |
+| ✅ | 31/10 | `Tracy Bu` | Discerning Media Bias within a Network of Political Allies and Opponents: Disruption by Partisans |
+| ✅ | 07/11 | `Katsuya Abe (Nagoya University)` | Cosmological Free-Free Emission from Dark Matter Halos in the ΛCDM Model |
+| | 14/11 |  | |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
 | | 28/11 | `Matt Thomas` | |
 | | 05/12 | `Tom Kimpson` | |
