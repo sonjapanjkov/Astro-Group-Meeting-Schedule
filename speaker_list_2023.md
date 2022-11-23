@@ -6,8 +6,8 @@
 | | 23/01 | | |
 | | 30/01 | | |
 | | 06/02 | `Reinhold Wilcox (Monash) ` | |
-| | 13/02 | | |
-| | 20/02 | | |
+| | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | |
+| | 20/02 | `Emanuele Maria Ventura` | |
 | | 27/02 | | |
 | | 06/03 | | |
 | | 13/03 | | |
