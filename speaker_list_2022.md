@@ -45,7 +45,7 @@
 | ✅ | 07/11 | `Katsuya Abe (Nagoya University)` | Cosmological Free-Free Emission from Dark Matter Halos in the ΛCDM Model |
 | ✅ | 14/11 | `Vishal Ayyagari` | Observing Distant Galaxies with Space Telescopes |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
-| | 28/11 | `Matt Thomas` | |
-| | 05/12 | | |
+| ✅  | 28/11 | `Matt Thomas` | Using Nano-satellite Constellations to Triangulate Gamma-Ray Bursts |
+| | 05/12 | `Sonja Panjkov` | Morhpological Insights into the Supernova Progenitors of the Small Magellanic Cloud |
 | | 12/12 | `Joe O'leary` | |
 | | 19/12 |  | |
