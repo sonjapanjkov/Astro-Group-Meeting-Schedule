@@ -48,4 +48,4 @@
 | ✅  | 28/11 | `Matt Thomas` | Using Nano-satellite Constellations to Triangulate Gamma-Ray Bursts |
 | | 05/12 | `Sonja Panjkov` | Morphological Insights into the Supernova Progenitors of the Small Magellanic Cloud |
 | | 12/12 | `Joe O'leary` | |
-| | 19/12 |  | |
+| | 19/12 | `James Paynter` | Completion Talk - Massive Black Holes|
