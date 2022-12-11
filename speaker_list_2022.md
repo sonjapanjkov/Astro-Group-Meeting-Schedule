@@ -46,6 +46,6 @@
 | ✅ | 14/11 | `Vishal Ayyagari` | Observing Distant Galaxies with Space Telescopes |
 | ❌ | 21/11 | `Ozgrav and Astro3D Retreat` | |
 | ✅  | 28/11 | `Matt Thomas` | Using Nano-satellite Constellations to Triangulate Gamma-Ray Bursts |
-| | 05/12 | `Sonja Panjkov` | Morphological Insights into the Supernova Progenitors of the Small Magellanic Cloud |
-| | 12/12 | `Joe O'leary` | |
+| ✅ | 05/12 | `Sonja Panjkov` | Morphological Insights into the Supernova Progenitors of the Small Magellanic Cloud |
+|  | 12/12 | `Joe O'leary` | Reconstructing the Cruise Phase Trajectory of Deep Space Probes in a General Relativistic Framework |
 | | 19/12 | `James Paynter` | Completion Talk - Massive Black Holes|
