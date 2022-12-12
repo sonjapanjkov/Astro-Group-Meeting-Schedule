@@ -1,10 +1,6 @@
 
 | | Date| Speaker | Title |
 | --- | --- | --- | --- |
-| | 9/01 | `Rachel Webster` | Welcome and General Updates |
-| | 16/01 | | |
-| | 23/01 | | |
-| | 30/01 | `Yuxiang Qin` | |
 | | 06/02 | `Reinhold Wilcox (Monash) ` | |
 | | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | |
 | | 20/02 | `Emanuele Maria Ventura` | |
