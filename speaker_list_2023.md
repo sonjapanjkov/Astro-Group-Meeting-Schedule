@@ -5,7 +5,7 @@
 | | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | |
 | | 20/02 | `Emanuele Maria Ventura` | |
 | | 27/02 | | |
-| | 06/03 | | |
+| | 06/03 | `Justin Clancy` | |
 | | 13/03 | | |
 | | 20/03 | | |
 | | 27/03 | | |
