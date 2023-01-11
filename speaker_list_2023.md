@@ -1,7 +1,7 @@
 
 | | Date| Speaker | Title |
 | --- | --- | --- | --- |
-| | 06/02 | `Reinhold Wilcox (Monash) ` | |
+| | 06/02 | `Welcome and General Updates` | |
 | | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | |
 | | 20/02 | `Emanuele Maria Ventura` | |
 | | 27/02 | | |
@@ -11,7 +11,7 @@
 | | 27/03 | | |
 | | 03/04 | | |
 | ❌ | 10/04 | `Easter Monday` | |
-| | 17/04 | | |
+| | 17/04 | `Yuxiang Qin` | |
 | | 24/04 | | |
 | | 01/05 | | |
 | | 08/05 | | |
