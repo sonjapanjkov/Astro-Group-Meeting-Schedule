@@ -4,12 +4,12 @@
 | | 06/02 | `Welcome and General Updates` | |
 | | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | |
 | | 20/02 | `Emanuele Maria Ventura` | |
-| | 27/02 | | |
+| | 27/02 | `Sabrina Berger` | |
 | | 06/03 | `Justin Clancy` | |
-| | 13/03 | | |
-| | 20/03 | | |
+| | 13/03 | `Michael Doohan` | |
+| | 20/03 | `Tom Kimpson` | |
 | | 27/03 | | |
-| | 03/04 | | |
+| | 03/04 | `Bezhad Ansarinejad` | |
 | ❌ | 10/04 | `Easter Monday` | |
 | | 17/04 | `Yuxiang Qin` | |
 | | 24/04 | `Balu Sreedhar`| |
