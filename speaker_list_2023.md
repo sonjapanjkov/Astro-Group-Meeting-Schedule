@@ -1,7 +1,6 @@
 
 | | Date| Speaker | Title |
 | --- | --- | --- | --- |
-| | 06/02 | `Welcome and General Updates` | |
 | | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | 'Lensing ...' and 'Analytical Predictions for Emission Line Galaxies in the JWST Fresco Survey'|
 | | 20/02 | `Emanuele Maria Ventura` | |
 | | 27/02 | `Sabrina Berger` | |
