@@ -7,13 +7,13 @@
 | | 06/03 | `Justin Clancy` | | |
 | | 13/03 | `Michael Doohan` | | |
 | | 20/03 | `Tom Kimpson` | | |
-| | 27/03 | | | |
+| | 27/03 | `Kit Boyett` | | |
 | | 03/04 | `Bezhad Ansarinejad` | | |
 | ❌ | 10/04 | `Easter Monday` | | |
 | | 17/04 | `Yuxiang Qin` | | |
 | | 24/04 | `Balu Sreedhar`| | |
-| | 01/05 | | | |
-| | 08/05 | | | |
+| | 01/05 | `Liam Dunn` | | |
+| | 08/05 | `Kevin Levy` | | |
 | | 15/05 | | | |
 | | 22/05 | | | |
 | | 29/05 | | | |
