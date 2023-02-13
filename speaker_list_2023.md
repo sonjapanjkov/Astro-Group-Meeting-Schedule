@@ -1,6 +1,6 @@
 
 | | Date| Speaker | Title | Cake Duty |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | 'Lensing ...' and 'Analytical Predictions for Emission Line Galaxies in the JWST Fresco Survey'| Rachel |
 | | 20/02 | `Emanuele Maria Ventura` | | Aadarsh |
 | | 27/02 | `Sabrina Berger` | | Giovanni |
