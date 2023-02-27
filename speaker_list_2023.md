@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- |
 | ✅ | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | 'Lensing ...' and 'Analytical Predictions for Emission Line Galaxies in the JWST Fresco Survey'| Rachel |
 | ✅ | 20/02 | `Emanuele Maria Ventura` | A Quick Recipe for Tasty Pop III Stars | Aadarsh |
-| | 27/02 | `Sabrina Berger` | | Giovanni |
+| | 27/02 | `Sabrina Berger` | Using the Global Navigation Satellite System Satellites for Beam Calibration of Radio Telescopes | Giovanni |
 | | 06/03 | `Justin Clancy` | | |
 | | 13/03 | `Michael Doohan` | | |
 | | 20/03 | `Tom Kimpson` | | |
