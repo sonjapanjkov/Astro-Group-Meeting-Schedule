@@ -3,8 +3,8 @@
 | --- | --- | --- | --- | --- |
 | ✅ | 13/02 | `Giovanni Ferrami and Aadarsh Pathak` | 'Lensing ...' and 'Analytical Predictions for Emission Line Galaxies in the JWST Fresco Survey'| Rachel |
 | ✅ | 20/02 | `Emanuele Maria Ventura` | A Quick Recipe for Tasty Pop III Stars | Aadarsh |
-| | 27/02 | `Sabrina Berger` | Using the Global Navigation Satellite System Satellites for Beam Calibration of Radio Telescopes | Giovanni |
-| | 06/03 | `Justin Clancy` | | |
+| ✅ | 27/02 | `Sabrina Berger` | Using the Global Navigation Satellite System Satellites for Beam Calibration of Radio Telescopes | Giovanni |
+| | 06/03 | `Justin Clancy` | Polarisation Fraction of Planck Galactic Cold Clumps and Forecasts for the Simons Obervatory | Oliver |
 | | 13/03 | `Michael Doohan` | | |
 | | 20/03 | `Tom Kimpson` | | |
 | | 27/03 | `Kit Boyett` | | |
