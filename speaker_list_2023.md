@@ -15,7 +15,7 @@
 | | 01/05 | `Liam Dunn` | | |
 | | 08/05 | `Kevin Levy` | | |
 | | 15/05 | `Michael Doohan` | | |
-| | 22/05 | | | |
+| | 22/05 | `Benji Metha` | | |
 | | 29/05 | | | |
 | | 05/06 | | | |
 | ❌ | 12/06 | `King's Birthday` | | |
