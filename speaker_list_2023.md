@@ -8,7 +8,7 @@
 | ❌ | 13/03 | `Labour Day` | | |
 | | 20/03 | `Tom Kimpson` | Automatic Differentiation: A Tool for Scientific Research | Justin |
 | | 27/03 | `Kit Boyett` | | |
-| | 03/04 | `Bezhad Ansarinejad` | | |
+| | 03/04 | `Bezhad Ansarinejad` | | Sabrina |
 | ❌ | 10/04 | `Easter Monday` | | |
 | | 17/04 | `Yuxiang Qin` | | |
 | | 24/04 | `Balu Sreedhar`| | |
