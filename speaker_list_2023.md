@@ -6,8 +6,8 @@
 | ✅ | 27/02 | `Sabrina Berger` | Using the Global Navigation Satellite System Satellites for Beam Calibration of Radio Telescopes | Giovanni |
 | ✅ | 06/03 | `Justin Clancy` | Polarisation Fraction of Planck Galactic Cold Clumps and Forecasts for the Simons Obervatory | Oliver |
 | ❌ | 13/03 | `Labour Day` | | |
-| | 20/03 | `Tom Kimpson` | Automatic Differentiation: A Tool for Scientific Research | Justin |
-| | 27/03 | `Kit Boyett` | | |
+| ✅ | 20/03 | `Tom Kimpson` | Automatic Differentiation: A Tool for Scientific Research | Justin |
+| | 27/03 | `Kit Boyett` | | Jia yi |
 | | 03/04 | `Bezhad Ansarinejad` | | Sabrina |
 | ❌ | 10/04 | `Easter Monday` | | |
 | | 17/04 | `Yuxiang Qin` | | |
