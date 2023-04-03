@@ -7,8 +7,8 @@
 | ✅ | 06/03 | `Justin Clancy` | Polarisation Fraction of Planck Galactic Cold Clumps and Forecasts for the Simons Obervatory | Oliver |
 | ❌ | 13/03 | `Labour Day` | | |
 | ✅ | 20/03 | `Tom Kimpson` | Automatic Differentiation: A Tool for Scientific Research | Justin |
-| | 27/03 | `Kit Boyett` | A Massive Galaxy 525 Million Years after the Big Bang | Jia yi |
-| | 03/04 | `Bezhad Ansarinejad` | | Sabrina |
+| ✅ | 27/03 | `Kit Boyett` | A Massive Galaxy 525 Million Years after the Big Bang | Jia yi |
+| | 03/04 | `Bezhad Ansarinejad` | Galaxy Cluster Cosmology and CMB CLuster Lensing | Sabrina |
 | ❌ | 10/04 | `Easter Monday` | | |
 | | 17/04 | `Yuxiang Qin` | | |
 | | 24/04 | `Balu Sreedhar`| | |
