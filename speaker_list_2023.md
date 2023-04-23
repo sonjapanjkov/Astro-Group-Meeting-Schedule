@@ -11,7 +11,7 @@
 | ✅ | 03/04 | `Bezhad Ansarinejad` | Galaxy Cluster Cosmology and CMB CLuster Lensing | Sabrina |
 | ❌ | 10/04 | `Easter Monday` | | |
 | ✅ | 17/04 | `Yuxiang Qin` | Gotta Catch 'Em All! -- Modelling z>12 star-forming galaxies from JWST | Balu |
-| | 24/04 | `Balu Sreedhar`| | Benji |
+| | 24/04 | `Balu Sreedhar`| Forecasts on Early Galaxy Astrophysics Using 21-cm Power Spectra | Benji |
 | | 01/05 | `Liam Dunn` | | Andrés |
 | | 08/05 | `Kevin Levy` | | |
 | | 15/05 | `Michael Doohan` | | |
