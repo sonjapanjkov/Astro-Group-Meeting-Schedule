@@ -10,9 +10,9 @@
 | ✅ | 27/03 | `Kit Boyett` | A Massive Galaxy 525 Million Years after the Big Bang | Jia yi |
 | ✅ | 03/04 | `Bezhad Ansarinejad` | Galaxy Cluster Cosmology and CMB CLuster Lensing | Sabrina |
 | ❌ | 10/04 | `Easter Monday` | | |
-| | 17/04 | `Yuxiang Qin` | | Balu |
-| | 24/04 | `Balu Sreedhar`| | |
-| | 01/05 | `Liam Dunn` | | |
+| ✅ | 17/04 | `Yuxiang Qin` | Gotta Catch 'Em All! -- Modelling z>12 star-forming galaxies from JWST | Balu |
+| | 24/04 | `Balu Sreedhar`| | Benji |
+| | 01/05 | `Liam Dunn` | | Andrés |
 | | 08/05 | `Kevin Levy` | | |
 | | 15/05 | `Michael Doohan` | | |
 | | 22/05 | `Benji Metha` | | |
