@@ -12,11 +12,11 @@
 | ❌ | 10/04 | `Easter Monday` | | |
 | ✅ | 17/04 | `Yuxiang Qin` | Gotta Catch 'Em All! -- Modelling z>12 star-forming galaxies from JWST | Balu |
 | ✅ | 24/04 | `Balu Sreedhar`| Forecasts on Early Galaxy Astrophysics Using 21-cm Power Spectra | Benji |
-| | 01/05 | `Liam Dunn` | Searching for Continous Waves from Globular Clusters with a Phase-Tracking Hidden Markov Model | Andrés |
+| ✅ | 01/05 | `Liam Dunn` | Searching for Continous Waves from Globular Clusters with a Phase-Tracking Hidden Markov Model | Andrés |
 | | 08/05 | `Kevin Levy` | | |
 | | 15/05 | `Michael Doohan` | | |
 | | 22/05 | `Benji Metha` | | |
-| | 29/05 | | | |
+| | 29/05 | `Oliver Anangnostou` | | |
 | | 05/06 | | | |
 | ❌ | 12/06 | `King's Birthday` | | |
 | | 19/06 | | | |
