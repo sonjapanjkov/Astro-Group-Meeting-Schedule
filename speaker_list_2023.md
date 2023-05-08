@@ -17,7 +17,7 @@
 | | 15/05 | `Michael Doohan` | | Manu |
 | | 22/05 | `Benji Metha` | | Michael |
 | ❌ | 29/05 | `Astro3D Science Meeting` | | |
-| | 05/06 | `Oliver Anangnostou` | | |
+| | 05/06 | `Oliver Anagnostou` | | |
 | ❌ | 12/06 | `King's Birthday` | | |
 | | 19/06 | | | |
 | | 26/06 | | | |
