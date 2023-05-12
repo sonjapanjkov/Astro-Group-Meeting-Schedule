@@ -19,7 +19,7 @@
 | ❌ | 29/05 | `Astro3D Science Meeting` | | |
 | | 05/06 | `Oliver Anagnostou` | | |
 | ❌ | 12/06 | `King's Birthday` | | |
-| | 19/06 | | | |
+| | 19/06 | `Jumi Hall` | | |
 | | 26/06 | | | |
 | ❌ | 03/07 | `ASA ASM` | | |
 | | 10/07 | | | |
