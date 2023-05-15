@@ -17,10 +17,10 @@
 | | 15/05 | `Michael Doohan` | Optimal Lensing Reconstruction with MUSE | Manu |
 | | 22/05 | `Benji Metha` | | Michael |
 | ❌ | 29/05 | `Astro3D Science Meeting` | | |
-| | 05/06 | `Oliver Anagnostou` | | |
+| | 05/06 | `Oliver Anagnostou` | | Joe |
 | ❌ | 12/06 | `King's Birthday` | | |
 | | 19/06 | `Jumi Hall` | | |
-| | 26/06 | | | |
+| | 26/06 | `Joe O'Leary` | | |
 | ❌ | 03/07 | `ASA ASM` | | |
 | | 10/07 | | | |
 | | 17/07 | | | |
