@@ -14,10 +14,10 @@
 | ✅ | 24/04 | `Balu Sreedhar`| Forecasts on Early Galaxy Astrophysics Using 21-cm Power Spectra | Benji |
 | ✅ | 01/05 | `Liam Dunn` | Searching for Continous Waves from Globular Clusters with a Phase-Tracking Hidden Markov Model | Andrés |
 | ✅ | 08/05 | `Kevin Levy` | A Foreground-Immune CMB Cluster Lensing Estimator | Jia yi |
-| | 15/05 | `Michael Doohan` | Optimal Lensing Reconstruction with MUSE | Manu |
-| | 22/05 | `Benji Metha` | | Michael |
+| ✅ | 15/05 | `Michael Doohan` | Optimal Lensing Reconstruction with MUSE | Manu |
+| ✅ | 22/05 | `Benji Metha` | | Michael |
 | ❌ | 29/05 | `Astro3D Science Meeting` | | |
-| | 05/06 | `Oliver Anagnostou` | | Joe |
+| | 05/06 | `Oliver Anagnostou` | Why Don't You Just Rewrite the Code in Another Language? | Joe |
 | ❌ | 12/06 | `King's Birthday` | | |
 | | 19/06 | `Jumi Hall` | | |
 | | 26/06 | `Joe O'Leary` | | |
