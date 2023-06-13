@@ -20,12 +20,12 @@
 | | 05/06 | `Oliver Anagnostou` | Why Don't You Just Rewrite the Code in Another Language? | Joe |
 | ❌ | 12/06 | `King's Birthday` | | |
 | | 19/06 | `Jumi Hall` | | |
-| | 26/06 | `Joe O'Leary` | | |
+| | 26/06 | | | |
 | ❌ | 03/07 | `ASA ASM` | | |
 | | 10/07 | | | |
 | | 17/07 | | | |
 | | 24/07 | | | |
-| | 31/08 | | | |
+| | 31/08 | `Joe O'Leary` | | |
 | | 07/08 | | | |
 | | 14/08 | | | |
 | | 21/08 | | | |
