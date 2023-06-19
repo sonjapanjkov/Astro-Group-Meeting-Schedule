@@ -19,7 +19,7 @@
 | ❌ | 29/05 | `Astro3D Science Meeting` | | |
 | | 05/06 | `Oliver Anagnostou` | Why Don't You Just Rewrite the Code in Another Language? | Joe |
 | ❌ | 12/06 | `King's Birthday` | | |
-| | 19/06 | `Jumi Hall` | | Nico |
+| | 19/06 | `Jumi Hall` | Distributions of Luminosities in High Redshift Galaxies in Hubble and James Webb Space Telescope Images | Nico |
 | | 26/06 | | | |
 | ❌ | 03/07 | `ASA ASM` | | |
 | | 10/07 | | | |
