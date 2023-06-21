@@ -17,16 +17,16 @@
 | ✅ | 15/05 | `Michael Doohan` | Optimal Lensing Reconstruction with MUSE | Manu |
 | ✅ | 22/05 | `Benji Metha` | | Michael |
 | ❌ | 29/05 | `Astro3D Science Meeting` | | |
-| | 05/06 | `Oliver Anagnostou` | Why Don't You Just Rewrite the Code in Another Language? | Joe |
+| ✅ | 05/06 | `Oliver Anagnostou` | Why Don't You Just Rewrite the Code in Another Language? | Joe |
 | ❌ | 12/06 | `King's Birthday` | | |
-| | 19/06 | `Jumi Hall` | Distributions of Luminosities in High Redshift Galaxies in Hubble and James Webb Space Telescope Images | Nico |
-| | 26/06 | | | |
+| ✅ | 19/06 | `Jumi Hall` | Distributions of Luminosities in High Redshift Galaxies in Hubble and James Webb Space Telescope Images | Nico |
+| | 26/06 | `Aman Chokshi` | | Liam |
 | ❌ | 03/07 | `ASA ASM` | | |
 | | 10/07 | | | |
-| | 17/07 | | | |
-| | 24/07 | | | |
-| | 31/08 | `Joe O'Leary` | | |
-| | 07/08 | | | |
+| | 17/07 | | | Tong |
+| | 24/07 | `Filippo Anzuini` | | |
+| | 31/07 | `Joe O'Leary` | | Filippo |
+| | 07/08 | `Jacky Thong` | | |
 | | 14/08 | | | |
 | | 21/08 | | | |
 | | 28/08 | | | |
