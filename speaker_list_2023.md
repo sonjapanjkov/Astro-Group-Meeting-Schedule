@@ -23,7 +23,7 @@
 | | 26/06 | `Aman Chokshi` | | Liam |
 | ❌ | 03/07 | `ASA ASM` | | |
 | | 10/07 | | | |
-| | 17/07 | | | Tong |
+| | 17/07 | `Miftahul Hilmi` | | Tong |
 | | 24/07 | `Filippo Anzuini` | | |
 | | 31/07 | `Joe O'Leary` | | Filippo |
 | | 07/08 | `Jacky Thong` | | |
