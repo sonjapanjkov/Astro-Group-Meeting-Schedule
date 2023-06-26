@@ -22,14 +22,14 @@
 | ✅ | 19/06 | `Jumi Hall` | Distributions of Luminosities in High Redshift Galaxies in Hubble and James Webb Space Telescope Images | Nico |
 | | 26/06 | `Aman Chokshi` | | Liam |
 | ❌ | 03/07 | `ASA ASM` | | |
-| | 10/07 | | | |
+| | 10/07 | | | Jenn |
 | | 17/07 | `Miftahul Hilmi` | | Tong |
-| | 24/07 | `Filippo Anzuini` | | |
+| | 24/07 | `Filippo Anzuini` | | Tree |
 | | 31/07 | `Joe O'Leary` | | Filippo |
 | | 07/08 | `Jacky Thong` | | |
-| | 14/08 | | | |
+| | 14/08 | `Jack Hon` | | |
 | | 21/08 | | | |
-| | 28/08 | | | |
+| | 28/08 | `Nicholas O'Neill` | | |
 | | 04/09 | | | |
 | | 11/09 | | | |
 | | 18/09 | | | |
