@@ -22,7 +22,7 @@
 | ✅ | 19/06 | `Jumi Hall` | Distributions of Luminosities in High Redshift Galaxies in Hubble and James Webb Space Telescope Images | Nico |
 | ✅ | 26/06 | `Aman Chokshi` | Astrophotography | Liam |
 | ❌ | 03/07 | `ASA ASM` | | |
-| | 10/07 | `Stephi Bernard` | | Jenn |
+| | 10/07 | `Stephi Bernard` | Transitioning to a Science Communication Career from Astrophysics | Jenn |
 | | 17/07 | `Miftahul Hilmi` | | Tong |
 | | 24/07 | `Filippo Anzuini` | | Tree |
 | | 31/07 | `Joe O'Leary` | | Filippo |
