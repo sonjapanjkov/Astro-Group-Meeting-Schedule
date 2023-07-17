@@ -23,7 +23,7 @@
 | ✅ | 26/06 | `Aman Chokshi` | Astrophotography | Liam |
 | ❌ | 03/07 | `ASA ASM` | | |
 | ✅ | 10/07 | `Stephi Bernard` | Transitioning to a Science Communication Career from Astrophysics | Jenn |
-| | 17/07 | `Miftahul Hilmi` | | Tong |
+| | 17/07 | `Miftahul Hilmi` | A Novel Analysis of Contamination in Lyman Break Galaxy Samples Based on Spatial Cross-Correlation with Intermediate-Redshift Galaxies | Tong |
 | | 24/07 | `Sumit Sarbadhicary` | | Tree |
 | | 31/07 | `Joe O'Leary` | | Filippo |
 | | 07/08 | `Jacky Thong` | | |
