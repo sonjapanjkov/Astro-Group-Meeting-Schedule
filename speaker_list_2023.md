@@ -24,7 +24,7 @@
 | ❌ | 03/07 | `ASA ASM` | | |
 | ✅ | 10/07 | `Stephi Bernard` | Transitioning to a Science Communication Career from Astrophysics | Jenn |
 | ✅ | 17/07 | `Miftahul Hilmi` | A Novel Analysis of Contamination in Lyman Break Galaxy Samples Based on Spatial Cross-Correlation with Intermediate-Redshift Galaxies | Tong |
-| | 24/07 | `Sumit Sarbadhicary` | | Tree |
+| | 24/07 | `Sumit Sarbadhicary` | `Where Do Stars Explode in the Interstellar Medium?` | Tree |
 | | 31/07 | `Joe O'Leary` | | Filippo |
 | | 07/08 | `Jacky Thong` | | |
 | | 14/08 | `Jack Hon` | | |
