@@ -29,9 +29,9 @@
 | ✅ | 07/08 | `Jacky Thong` | Flux Branching at the Type-I and -II Superconductivity Interface in Neutron Stars | Matt |
 | | 14/08 | `Jack Hon` | | Nithin |
 | | 21/08 | `Ryan Brunet` | | Kevin |
-| | 28/08 | `Nicholas O'Neill` | | |
+| | 28/08 | `Nicholas O'Neill` | | Behzad |
 | | 04/09 | `Filippo Anzuini` | | Julian |
-| | 11/09 | `Sonja Panjkov` | | |
+| | 11/09 | `Sonja Panjkov` | | Tom |
 | | 18/09 | `Justin Clancy` | | |
 | | 25/09 | | | |
 | | 02/10 | | | |
