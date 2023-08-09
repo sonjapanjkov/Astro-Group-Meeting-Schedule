@@ -26,11 +26,11 @@
 | ✅ | 17/07 | `Miftahul Hilmi` | A Novel Analysis of Contamination in Lyman Break Galaxy Samples Based on Spatial Cross-Correlation with Intermediate-Redshift Galaxies | Tong |
 | ✅ | 24/07 | `Sumit Sarbadhicary` | Where Do Stars Explode in the Interstellar Medium? | Tree |
 | ✅ | 31/07 | `Joe O'Leary` | Measuring the Magnetic Dipole Moment of SXP 18.3 with a Kalman Filter | Filippo |
-| | 07/08 | `Jacky Thong` | Flux Branching at the Type-I and -II Superconductivity Interface in Neutron Stars | Matt |
-| | 14/08 | `Jack Hon` | | |
-| | 21/08 | `Ryan Brunet` | | |
+| ✅ | 07/08 | `Jacky Thong` | Flux Branching at the Type-I and -II Superconductivity Interface in Neutron Stars | Matt |
+| | 14/08 | `Jack Hon` | | Nithin |
+| | 21/08 | `Ryan Brunet` | | Kevin |
 | | 28/08 | `Nicholas O'Neill` | | |
-| | 04/09 | `Filippo Anzuini` | | |
+| | 04/09 | `Filippo Anzuini` | | Julian |
 | | 11/09 | `Sonja Panjkov` | | |
 | | 18/09 | `Justin Clancy` | | |
 | | 25/09 | | | |
