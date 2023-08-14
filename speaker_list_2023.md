@@ -27,7 +27,7 @@
 | ✅ | 24/07 | `Sumit Sarbadhicary` | Where Do Stars Explode in the Interstellar Medium? | Tree |
 | ✅ | 31/07 | `Joe O'Leary` | Measuring the Magnetic Dipole Moment of SXP 18.3 with a Kalman Filter | Filippo |
 | ✅ | 07/08 | `Jacky Thong` | Flux Branching at the Type-I and -II Superconductivity Interface in Neutron Stars | Matt |
-| | 14/08 | `Jack Hon` | | Nithin |
+| ✅ | 14/08 | `Jack Hon` | This Week I Learnt: Convolutional Neural Network | Nithin |
 | | 21/08 | `Ryan Brunet` | | Kevin |
 | | 28/08 | `Nicholas O'Neill` | | Behzad |
 | | 04/09 | `Filippo Anzuini` | | Julian |
@@ -35,7 +35,7 @@
 | | 18/09 | `Justin Clancy` | | |
 | | 25/09 | | | |
 | | 02/10 | | | |
-| | 09/10 | | | |
+| | 09/10 | `Nithin Babu` | | |
 | | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
 | | 23/10 | | | |
 | | 30/10 | | | |
