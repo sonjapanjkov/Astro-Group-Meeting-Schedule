@@ -28,13 +28,13 @@
 | ✅ | 31/07 | `Joe O'Leary` | Measuring the Magnetic Dipole Moment of SXP 18.3 with a Kalman Filter | Filippo |
 | ✅ | 07/08 | `Jacky Thong` | Flux Branching at the Type-I and -II Superconductivity Interface in Neutron Stars | Matt |
 | ✅ | 14/08 | `Jack Hon` | This Week I Learnt: Convolutional Neural Network | Nithin |
-| | 21/08 | `Ryan Brunet` | | Kevin |
+| | 21/08 | `Ryan Brunet` | Magnetically-Confined Mountain Formation with Cross-Field Diffusion | Kevin |
 | | 28/08 | `Nicholas O'Neill` | | Behzad |
 | | 04/09 | `Filippo Anzuini` | | Julian |
 | | 11/09 | `Sonja Panjkov` | | Tom |
 | | 18/09 | `Justin Clancy` | | |
 | | 25/09 | | | |
-| | 02/10 | | | |
+| | 02/10 | `Pedro Rossetto` | Magnetically-Confined Mountains on Accreting Neutron Stars in General Relativity | |
 | | 09/10 | `Nithin Babu` | | |
 | | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
 | | 23/10 | | | |
