@@ -37,9 +37,9 @@
 | | 02/10 | `Pedro Rossetto` | Magnetically-Confined Mountains on Accreting Neutron Stars in General Relativity | |
 | | 09/10 | `Nithin Babu` | | |
 | | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
-| | 23/10 | | | |
-| | 30/10 | | | |
-| | 06/11 | | | |
+| | 23/10 | `Master's Practice Talk` | | |
+| | 30/10 | `Master's Practice Talk` | | |
+| | 06/11 | `Master's Practice Talk` | | |
 | | 13/11 | | | |
 | | 20/11 | | | |
 | | 27/11 | | | |
