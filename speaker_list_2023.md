@@ -33,7 +33,7 @@
 | | 04/09 | `Filippo Anzuini` | | Julian |
 | | 11/09 | `Sonja Panjkov` | | Tom |
 | | 18/09 | `Justin Clancy` | | Pedro |
-| | 25/09 | | | |
+| | 25/09 | `Matt Thomas` | | |
 | | 02/10 | `Pedro Rossetto` | Magnetically-Confined Mountains on Accreting Neutron Stars in General Relativity | |
 | | 09/10 | `Nithin Babu` | | |
 | | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
