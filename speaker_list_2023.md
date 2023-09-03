@@ -29,8 +29,8 @@
 | ✅ | 07/08 | `Jacky Thong` | Flux Branching at the Type-I and -II Superconductivity Interface in Neutron Stars | Matt |
 | ✅ | 14/08 | `Jack Hon` | This Week I Learnt: Convolutional Neural Network | Nithin |
 | ✅ | 21/08 | `Ryan Brunet` | Magnetically-Confined Mountain Formation with Cross-Field Diffusion | Kevin |
-| | 28/08 | `Nicholas O'Neill` | Parameter Estimation for a Two-component Model of Neutron Stars using a Kalman Filter | Behzad |
-| | 04/09 | `Filippo Anzuini` | | Julian |
+| ✅ | 28/08 | `Nicholas O'Neill` | Parameter Estimation for a Two-component Model of Neutron Stars using a Kalman Filter | Behzad |
+| | 04/09 | `Filippo Anzuini` | Primordial Magnetogenesis | Julian |
 | | 11/09 | `Sonja Panjkov` | | Tom |
 | | 18/09 | `Justin Clancy` | | Pedro |
 | | 25/09 | `Matt Thomas` | | |
